@@ -1,1 +1,3 @@
-default: npm login --scope=@OWNER --registry=https://npm.pkg.github.com
+default: 
+  npm login --scope=@OWNER --registry=https://npm.pkg.github.com
+  npm publish
