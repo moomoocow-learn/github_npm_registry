@@ -1,0 +1,18 @@
+{
+  "name": "@moomoocow-learn/js_lib_sample",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": "git@github.com:moomoocow-learn/js_lib_sample.git",
+  "description": "https://livecodestream.dev/post/publish-your-first-node-library-using-npm/",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
+  "dependencies": {
+    "package.json": "^2.0.1"
+  }
+}
